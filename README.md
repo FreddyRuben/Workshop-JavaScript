@@ -1,0 +1,2 @@
+# Workshop-JavaScript
+javascript exercises
